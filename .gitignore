@@ -1,16 +1,11 @@
-.dart_tool/
+# IDE
 .idea/
 .vscode/
+
+# Build
 build/
-flutter_*.png
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-ios/Flutter/Generated.xcconfig
-ios/Flutter/ephemeral/
-pubspec.lock
-\.packages
-\.flutter-plugins
-\.flutter-plugins-dependencies
-android/.gradle
-android/app/local.properties
-**/GeneratedPluginRegistrant.*
+
+# Misc
+*.log
+*.tmp
+.DS_Store
